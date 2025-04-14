@@ -1,6 +1,13 @@
+import PlantGallery from "./plantGallery.jsx";
+import "./guide.css";
+
+
 function BeginnersGuide() {
   return (
-    <h1>Beginners guide :D</h1>
+    <>
+      <PlantGallery/>
+    </>
+    
   );
 }
 
